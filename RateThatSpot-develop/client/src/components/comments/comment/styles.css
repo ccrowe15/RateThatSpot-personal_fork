@@ -1,0 +1,51 @@
+
+.replies-link {
+    color: black;
+}
+
+.replies-link:hover {
+    text-decoration: underline;
+}
+
+.edit-link {
+    float: right;
+    color: black;
+    margin-top: 50px;
+}
+
+.edit-link:hover {
+    color: #4885ed;
+}
+
+.thumbs-up2 {
+    color: lightslategrey;
+    float: left;
+}
+
+.thumbs-up2:hover {
+    color: lightskyblue;
+}
+
+.thumbs-up1 {
+    color: dodgerblue;
+    float: left;
+}
+
+
+.thumbs-down2 {
+    color: lightslategrey;
+    float: left;
+}
+
+.thumbs-down2:hover {
+    color: lightcoral;
+}
+
+.thumbs-down1 {
+    color: orangered;
+    float: left;
+}
+
+.username:hover {
+    text-decoration: underline;
+}

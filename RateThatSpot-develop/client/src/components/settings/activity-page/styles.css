@@ -1,0 +1,8 @@
+
+.view-post {
+    color: black
+}
+
+.view-post:hover {
+    text-decoration: underline;
+}

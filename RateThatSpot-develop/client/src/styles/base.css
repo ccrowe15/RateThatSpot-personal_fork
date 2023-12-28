@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700;800&family=Nunito:wght@200;400;600;800&display=swap');
+
+div.root-div {
+  height: "100vh"
+}
+
+body .default {
+  background-color: black;
+}
+
+body .boiler {
+  background-color: #eae0c8;
+}

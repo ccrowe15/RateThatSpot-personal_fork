@@ -1,0 +1,11 @@
+
+.reply-link {
+    float: right;
+    color: #4885ed;
+    margin: 0 1.5%;
+    width: 5%;
+}
+
+.reply-link:hover {
+    text-decoration: underline;
+}
